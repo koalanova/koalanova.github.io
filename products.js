@@ -1,6 +1,5 @@
 const PRODUCTS = [
   { name: "COSRX Clear Pad", url: "https://s.shopee.sg/8ASlmuKmyP", emoji: "🛍️" },
-  { name: "[COSRX OFFICIAL] [RENEWAL] One Step Original Clear Pad (70 pads), Willow Bark Water 85.9%, BHA 1.0%, Acne Toner Pads for acne-prone, oily Skin", url: "https://s.shopee.sg/8ASlmuKmyP?lp=aff", emoji: "🛍️" },
   { name: "Ulti Monitor Stand", url: "https://s.shopee.sg/9Kej5ilUAr", emoji: "🛍️" },
   { name: "Hilton 5-star hotel pillow", url: "https://s.shopee.sg/qg5HU9uYr", emoji: "🛏️" },
   { name: "Jeep TWS earbuds", url: "https://s.shopee.sg/2LUtfKD9A0", emoji: "🎧" },
