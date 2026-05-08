@@ -1,5 +1,10 @@
 [
   {
+    "name": "Test Product",
+    "url": "https://s.shopee.sg/test123",
+    "emoji": "🛍️"
+  },
+  {
     "name": "COSRX Clear Pad",
     "url": "https://s.shopee.sg/8ASlmuKmyP",
     "emoji": "🛍️"

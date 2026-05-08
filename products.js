@@ -1,4 +1,5 @@
 const PRODUCTS = [
+  { name: "Test Product", url: "https://s.shopee.sg/test123", emoji: "🛍️" },
   { name: "COSRX Clear Pad", url: "https://s.shopee.sg/8ASlmuKmyP", emoji: "🛍️" },
   { name: "Ulti Monitor Stand", url: "https://s.shopee.sg/9Kej5ilUAr", emoji: "🛍️" },
   { name: "Hilton 5-star hotel pillow", url: "https://s.shopee.sg/qg5HU9uYr", emoji: "🛏️" },
