@@ -1,5 +1,10 @@
 [
   {
+    "name": "Baseus CCC",
+    "url": "https://s.shopee.sg/3B45rh3one",
+    "emoji": "🛍️"
+  },
+  {
     "name": "Test Product",
     "url": "https://s.shopee.sg/test123",
     "emoji": "🛍️"
@@ -33,10 +38,5 @@
     "name": "Dove 1L bundle of 4",
     "url": "https://s.shopee.sg/1VvoGgZfBt",
     "emoji": "🧴"
-  },
-  {
-    "name": "Slurpy Bear absorbs moisture",
-    "url": "https://s.shopee.sg/5q4oQSMgrt",
-    "emoji": "🧸"
   }
 ]
