@@ -1,42 +1,12 @@
-[
-  {
-    "name": "Logitech MX Master 3S Mouse",
-    "url": "https://amzn.to/placeholder1",
-    "emoji": "🖱️"
-  },
-  {
-    "name": "Sony WH-1000XM5 Headphones",
-    "url": "https://amzn.to/placeholder2",
-    "emoji": "🎧"
-  },
-  {
-    "name": "LG 27GP850-B Monitor",
-    "url": "https://amzn.to/placeholder3",
-    "emoji": "🖥️"
-  },
-  {
-    "name": "Keychron K2 Mechanical Keyboard",
-    "url": "https://amzn.to/placeholder4",
-    "emoji": "⌨️"
-  },
-  {
-    "name": "Anker 727 Charging Station",
-    "url": "https://amzn.to/placeholder5",
-    "emoji": "🔌"
-  },
-  {
-    "name": "Elgato Key Light Air",
-    "url": "https://amzn.to/placeholder6",
-    "emoji": "💡"
-  },
-  {
-    "name": "Samsung T7 Portable SSD 1TB",
-    "url": "https://amzn.to/placeholder7",
-    "emoji": "💾"
-  },
-  {
-    "name": "Blue Yeti USB Microphone",
-    "url": "https://amzn.to/placeholder8",
-    "emoji": "🎙️"
-  }
-]
+{
+  "products": [
+    {"name": "Hilton 5-star hotel pillow", "link": "https://s.shopee.sg/qg5HU9uYr"},
+    {"name": "Jeep TWS earbuds", "link": "https://s.shopee.sg/2LUtfKD9A0"},
+    {"name": "Xiaomi Air Pump 2 Pro", "link": "https://s.shopee.sg/9Keezzmvcy"},
+    {"name": "Dove 1L bundle of 4", "link": "https://s.shopee.sg/1VvoGgZfBt"},
+    {"name": "Slurpy Bear absorbs moisture", "link": "https://s.shopee.sg/5q4oQSMgrt"},
+    {"name": "Homey spin mop tornado", "link": "https://s.shopee.sg/6AhfQ9TgDI"},
+    {"name": "HUAWEI FreeClip 2", "link": "https://s.shopee.sg/5L8ZQR36zF"},
+    {"name": "SKIN1004 Madagascar Centella Ampoule", "link": "https://s.shopee.sg/2qRF2vmjHe"}
+  ]
+}
