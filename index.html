@@ -161,26 +161,17 @@
     <div class="tagline">Our favorite picks, curated for you</div>
   </header>
 
-  <div id="products">
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-  </div>
+  <div id="products"></div>
 
+  <script src="products.js"></script>
   <script>
-    fetch('products.json')
-      .then(r => r.json())
-      .then(products => {
-        const container = document.getElementById('products');
-        container.innerHTML = products.map(p => `
-          <a href="${p.url}" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
-            <span class="accent-dot"></span>
-            <span class="product-emoji">${p.emoji}</span>
-            <span class="product-name">${p.name}</span>
-          </a>
-        `).join('');
-      });
+    document.getElementById('products').innerHTML = PRODUCTS.map(p =>
+      `<a href="${p.url}" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+        <span class="accent-dot"></span>
+        <span class="product-emoji">${p.emoji}</span>
+        <span class="product-name">${p.name}</span>
+      </a>`
+    ).join('');
   </script>
 
   <footer>
