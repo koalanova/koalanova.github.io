@@ -1,10 +1,10 @@
 const PRODUCTS = [
-  { name: "Ulti Monitor Stand",           url: "https://s.shopee.sg/9Kej5ilUAr", emoji: "🛍️" },
-  { name: "Hilton 5-star hotel pillow",   url: "https://s.shopee.sg/qg5HU9uYr",  emoji: "🛏️" },
-  { name: "Jeep TWS earbuds",             url: "https://s.shopee.sg/2LUtfKD9A0", emoji: "🎧" },
-  { name: "Xiaomi Air Pump 2 Pro",        url: "https://s.shopee.sg/9Keezzmvcy", emoji: "🔧" },
-  { name: "Dove 1L bundle of 4",          url: "https://s.shopee.sg/1VvoGgZfBt", emoji: "🧴" },
-  { name: "Slurpy Bear absorbs moisture", url: "https://s.shopee.sg/5q4oQSMgrt", emoji: "🧸" },
-  { name: "Homey spin mop tornado",       url: "https://s.shopee.sg/6AhfQ9TgDI", emoji: "🧹" },
-  { name: "HUAWEI FreeClip 2",            url: "https://s.shopee.sg/5L8ZQR36zF", emoji: "🎵" }
+  { name: "COSRX Clear Pad", url: "https://s.shopee.sg/8ASlmuKmyP", emoji: "🛍️" },
+  { name: "[COSRX OFFICIAL] [RENEWAL] One Step Original Clear Pad (70 pads), Willow Bark Water 85.9%, BHA 1.0%, Acne Toner Pads for acne-prone, oily Skin", url: "https://s.shopee.sg/8ASlmuKmyP?lp=aff", emoji: "🛍️" },
+  { name: "Ulti Monitor Stand", url: "https://s.shopee.sg/9Kej5ilUAr", emoji: "🛍️" },
+  { name: "Hilton 5-star hotel pillow", url: "https://s.shopee.sg/qg5HU9uYr", emoji: "🛏️" },
+  { name: "Jeep TWS earbuds", url: "https://s.shopee.sg/2LUtfKD9A0", emoji: "🎧" },
+  { name: "Xiaomi Air Pump 2 Pro", url: "https://s.shopee.sg/9Keezzmvcy", emoji: "🔧" },
+  { name: "Dove 1L bundle of 4", url: "https://s.shopee.sg/1VvoGgZfBt", emoji: "🧴" },
+  { name: "Slurpy Bear absorbs moisture", url: "https://s.shopee.sg/5q4oQSMgrt", emoji: "🧸" }
 ];
