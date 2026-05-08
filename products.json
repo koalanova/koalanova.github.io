@@ -1,12 +1,10 @@
-{
-  "products": [
-    {"name": "Hilton 5-star hotel pillow", "link": "https://s.shopee.sg/qg5HU9uYr"},
-    {"name": "Jeep TWS earbuds", "link": "https://s.shopee.sg/2LUtfKD9A0"},
-    {"name": "Xiaomi Air Pump 2 Pro", "link": "https://s.shopee.sg/9Keezzmvcy"},
-    {"name": "Dove 1L bundle of 4", "link": "https://s.shopee.sg/1VvoGgZfBt"},
-    {"name": "Slurpy Bear absorbs moisture", "link": "https://s.shopee.sg/5q4oQSMgrt"},
-    {"name": "Homey spin mop tornado", "link": "https://s.shopee.sg/6AhfQ9TgDI"},
-    {"name": "HUAWEI FreeClip 2", "link": "https://s.shopee.sg/5L8ZQR36zF"},
-    {"name": "SKIN1004 Madagascar Centella Ampoule", "link": "https://s.shopee.sg/2qRF2vmjHe"}
-  ]
-}
+[
+  {"name": "Hilton 5-star hotel pillow", "url": "https://s.shopee.sg/qg5HU9uYr", "emoji": "🛏️"},
+  {"name": "Jeep TWS earbuds", "url": "https://s.shopee.sg/2LUtfKD9A0", "emoji": "🎧"},
+  {"name": "Xiaomi Air Pump 2 Pro", "url": "https://s.shopee.sg/9Keezzmvcy", "emoji": "🔧"},
+  {"name": "Dove 1L bundle of 4", "url": "https://s.shopee.sg/1VvoGgZfBt", "emoji": "🧴"},
+  {"name": "Slurpy Bear absorbs moisture", "url": "https://s.shopee.sg/5q4oQSMgrt", "emoji": "🧸"},
+  {"name": "Homey spin mop tornado", "url": "https://s.shopee.sg/6AhfQ9TgDI", "emoji": "🧹"},
+  {"name": "HUAWEI FreeClip 2", "url": "https://s.shopee.sg/5L8ZQR36zF", "emoji": "🎵"},
+  {"name": "SKIN1004 Madagascar Centella Ampoule", "url": "https://s.shopee.sg/2qRF2vmjHe", "emoji": "✨"}
+]

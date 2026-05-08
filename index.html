@@ -162,47 +162,52 @@
   </header>
 
   <div id="products">
-    <!-- Skeleton placeholders while loading -->
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
-    <div class="skeleton"></div>
+    <a href="https://s.shopee.sg/2qRF2vmjHe" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">✨</span>
+      <span class="product-name">SKIN1004 Madagascar Centella Ampoule</span>
+    </a>
+    <a href="https://s.shopee.sg/5L8ZQR36zF" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🎵</span>
+      <span class="product-name">HUAWEI FreeClip 2</span>
+    </a>
+    <a href="https://s.shopee.sg/6AhfQ9TgDI" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🧹</span>
+      <span class="product-name">Homey spin mop tornado</span>
+    </a>
+    <a href="https://s.shopee.sg/5q4oQSMgrt" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🧸</span>
+      <span class="product-name">Slurpy Bear absorbs moisture</span>
+    </a>
+    <a href="https://s.shopee.sg/1VvoGgZfBt" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🧴</span>
+      <span class="product-name">Dove 1L bundle of 4</span>
+    </a>
+    <a href="https://s.shopee.sg/9Keezzmvcy" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🔧</span>
+      <span class="product-name">Xiaomi Air Pump 2 Pro</span>
+    </a>
+    <a href="https://s.shopee.sg/2LUtfKD9A0" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🎧</span>
+      <span class="product-name">Jeep TWS earbuds</span>
+    </a>
+    <a href="https://s.shopee.sg/qg5HU9uYr" target="_blank" rel="noopener noreferrer sponsored" class="product-btn">
+      <span class="accent-dot"></span>
+      <span class="product-emoji">🛏️</span>
+      <span class="product-name">Hilton 5-star hotel pillow</span>
+    </a>
   </div>
 
   <footer>
     <p>Links may be affiliate links. We may earn a commission at no extra cost to you.</p>
     <p style="margin-top:4px">© 2025 KoalaNova</p>
   </footer>
-
-  <script>
-    fetch('./products.json')
-      .then(r => r.json())
-      .then(products => {
-        const container = document.getElementById('products');
-        container.innerHTML = '';
-        products.forEach(p => {
-          const a = document.createElement('a');
-          a.href = p.url;
-          a.target = '_blank';
-          a.rel = 'noopener noreferrer sponsored';
-          a.className = 'product-btn';
-          a.innerHTML = `
-            <span class="accent-dot"></span>
-            <span class="product-emoji">${p.emoji || '🛒'}</span>
-            <span class="product-name">${p.name}</span>
-          `;
-          container.appendChild(a);
-        });
-      })
-      .catch(() => {
-        document.getElementById('products').innerHTML =
-          '<p style="color:#666;text-align:center">Could not load products.</p>';
-      });
-  </script>
 
 </body>
 </html>
