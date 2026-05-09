@@ -1,10 +1,10 @@
 const PRODUCTS = [
+  { name: "Foldable Storage Box | Linen Organizer | Large Capacity Organizer with Handles | Wardrobe Organizer | Home Storage", url: "https://s.shopee.sg/4qCL1VUuKm", emoji: "🛍️" },
   { name: "TESSAN Extension Multi Plug with USB Type C", url: "https://s.shopee.sg/8piTBlzipF", emoji: "🛍️" },
   { name: "Baseus CCC", url: "https://s.shopee.sg/3B45rh3one", emoji: "🛍️" },
   { name: "Test Product", url: "https://s.shopee.sg/test123", emoji: "🛍️" },
   { name: "COSRX Clear Pad", url: "https://s.shopee.sg/8ASlmuKmyP", emoji: "🛍️" },
   { name: "Ulti Monitor Stand", url: "https://s.shopee.sg/9Kej5ilUAr", emoji: "🛍️" },
   { name: "Hilton 5-star hotel pillow", url: "https://s.shopee.sg/qg5HU9uYr", emoji: "🛏️" },
-  { name: "Jeep TWS earbuds", url: "https://s.shopee.sg/2LUtfKD9A0", emoji: "🎧" },
-  { name: "Xiaomi Air Pump 2 Pro", url: "https://s.shopee.sg/9Keezzmvcy", emoji: "🔧" }
+  { name: "Jeep TWS earbuds", url: "https://s.shopee.sg/2LUtfKD9A0", emoji: "🎧" }
 ];
