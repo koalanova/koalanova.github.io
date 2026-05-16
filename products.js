@@ -1,10 +1,10 @@
 const PRODUCTS = [
+  { name: "IndoSedap Oatside Oat Milk - Barista Blend / Chocolate / Coffee | Authentic Original Indonesian Oat Milk (6 x 1L Case)", url: "https://s.shopee.sg/1Vw3cWX7zo", emoji: "🛍️" },
   { name: "[SG Seller] Acrylic Desk Stand | Out of Office Desk Display |Funny Office Decor |Gift for Colleagues", url: "https://s.shopee.sg/8V5mxaRZCC", emoji: "🛍️" },
   { name: "Soundcore Sleep A30 by Anker Sleep Earbuds, Smart Active Noise Cancelling Sleep Headphones, Adaptive Snore-Masking System, Ultra-Comfort for Side Sleepers, 45H Playtime", url: "https://s.shopee.sg/AKXQoBEHS0", emoji: "🛍️" },
   { name: "Estalife Magnesium Glycinate 1000MG | Heart, Bone, Muscle, Sleep, Mood Health | 60 Veg Caps", url: "https://s.shopee.sg/3Vh5PX78E7", emoji: "🛍️" },
   { name: "[No.1 in SG] TP-Link Tapo C211 C200C C230 TC70 TC71 TC72 3K QHD AI Home Security IP Camera WiFi CCTV Wireless Camera", url: "https://s.shopee.sg/8KmKZJ1UaO", emoji: "🛍️" },
   { name: "[5.5 SALES] ★With Box ★ Aroma Fragrance Spray 100ML★ Room Spray ★ Hotel & Perfume Fragrances★", url: "https://s.shopee.sg/7KtlmZrrqt", emoji: "🛍️" },
   { name: "[New] [Online Exclusive] LG NANO 4K UHD AI NU80 Smart TV (2026) | Magic Remote | webOS 26", url: "https://s.shopee.sg/2g7vEBiOM3", emoji: "🛍️" },
-  { name: "Strongcore CLEAN Rechargeable Battery Cordless Vacuum Cleaner - Self-Standing, HEPA Filter, 11,500Pa", url: "https://s.shopee.sg/BQZeWne8z", emoji: "🛍️" },
-  { name: "TESSAN Tower Extension Plug with USB Type C Multi Plug Extension Socket Safety Mark Surge Protector", url: "https://s.shopee.sg/qgFRvkbKX", emoji: "🛍️" }
+  { name: "Strongcore CLEAN Rechargeable Battery Cordless Vacuum Cleaner - Self-Standing, HEPA Filter, 11,500Pa", url: "https://s.shopee.sg/BQZeWne8z", emoji: "🛍️" }
 ];
