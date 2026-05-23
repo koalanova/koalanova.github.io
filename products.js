@@ -1,10 +1,10 @@
 const PRODUCTS = [
+  { name: "PRISM+ EvoSonic Pro | 25,000Pa | Green LED | 250W BLDC Motor | Cordless Handheld Vacuum Cleaner with HEPA", url: "https://s.shopee.sg/qgXzXBOcT", emoji: "🛍️" },
   { name: "Aesthetic Refillable Bottles for Soap and Shampoo MELBOURNE EDITION Aesthetic Refillable Bottles Bathroom Kitchen", url: "https://s.shopee.sg/4VZpMTfHNb", emoji: "🛍️" },
   { name: "Ninja Blast Max Portable Blender, 650ml, Rechargeable, Crushes Ice, lightweight, BPA Free, Ninja BC251", url: "https://s.shopee.sg/50W5ML35Pq", emoji: "🛍️" },
   { name: "[New Launch] SKINTIFIC PDRN Bright & Smooth Moisture Gel - Repair Skin Barrier, Brightening,5000 PPM PDRN, Whitening", url: "https://s.shopee.sg/4LGNZGNWWW", emoji: "🛍️" },
   { name: "Mixshop Hand Roll Vacuum Bag for Travel | Space Saving Clothes Storage | SG Ready Stock", url: "https://s.shopee.sg/6feHkTkK7h", emoji: "🛍️" },
   { name: "Night Fat Burner Juice - Wildberry Lavender | Sleep Support & Weight Loss supplement | Fast results", url: "https://s.shopee.sg/40dVZnfQ4x", emoji: "🛍️" },
   { name: "Schneider Avataron C Switch Socket Wine Gold Dark Grey White Landed Condo BTO HDB TML", url: "https://s.shopee.sg/7VDN97qt1U", emoji: "🛍️" },
-  { name: "Wall-Mounted Toothbrush and Mouthwash Holder Set: Non-Perforated Dental Storage Rack", url: "https://s.shopee.sg/9029w3rxIs", emoji: "🛍️" },
-  { name: "Biofinest Probiotic 50 Billion CFU Enzyme Supplement 12 + 3 Prebiotics - Diet Slimming Eczema Detox Men Women (60 caps)", url: "https://s.shopee.sg/5q57ZAZUH6", emoji: "🛍️" }
+  { name: "Wall-Mounted Toothbrush and Mouthwash Holder Set: Non-Perforated Dental Storage Rack", url: "https://s.shopee.sg/9029w3rxIs", emoji: "🛍️" }
 ];
