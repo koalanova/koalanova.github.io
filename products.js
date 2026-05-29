@@ -1,10 +1,10 @@
 const PRODUCTS = [
+  { name: "Pro 4 Earphone Wireless Bluetooth TWS Headphone Noise Reduction Gaming Headset for Mobile Devices Earbuds", url: "https://s.shopee.sg/7VDbV9Ab9i", emoji: "🛍️" },
   { name: "ClearUp Microdarts for Acne | Microneedle Patches for Blind Pimples | Pure Hydrocolloid Skincare", url: "https://s.shopee.sg/1qZDkuIKJf", emoji: "🛍️" },
   { name: "Shieldmonster Stylus Pen for iPad Apple Pencil Palm Rejection iPad Air 11/13/a16/m2/3/Mini 7/Pro 11/13/Gen 10/Air 5/10.2", url: "https://s.shopee.sg/902Nh0AHe2", emoji: "🛍️" },
   { name: "Cotonsoft Sandra Cotton Bath Towel I Towel I Bathroom Towel I Gym Towel I Sports Towel I Soft Towel", url: "https://s.shopee.sg/2VosxFcedV", emoji: "🛍️" },
   { name: "Kinohimitsu Collagen Diamond Pro 5500mg with NMN Supplement 25g – Hydrating, Firming, Brightening & Anti-Ageing", url: "https://s.shopee.sg/7fWyVf8Wjo", emoji: "🛍️" },
   { name: "Pristine Car Diffuser | Signature & Hotel Scents | Long-lasting Aroma | 8ml Hanging Car Freshener", url: "https://s.shopee.sg/809nuWIbog", emoji: "🛍️" },
   { name: "Silversea - Premium Atlantic Salmon Fish Fillet Steak 450G/900G Fresh Frozen Seafood - HALAL", url: "https://s.shopee.sg/9zurh3v9Iw", emoji: "🛍️" },
-  { name: "(New Arrival) Epinova Silkysoft Printed 980TC Bedsheet without Quilt Cover - Soft & Comfortable - Lightweight", url: "https://s.shopee.sg/5ApawN4aw9", emoji: "🛍️" },
-  { name: "Salvo 2/3/4 Layers Laundry Basket With Wheels Bathroom Dirty Clothes Storage Basket Organizers", url: "https://s.shopee.sg/809liUXBLg", emoji: "🛍️" }
+  { name: "(New Arrival) Epinova Silkysoft Printed 980TC Bedsheet without Quilt Cover - Soft & Comfortable - Lightweight", url: "https://s.shopee.sg/5ApawN4aw9", emoji: "🛍️" }
 ];
